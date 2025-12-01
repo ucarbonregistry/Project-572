@@ -51,3 +51,21 @@ ________
 ________
 13 Limeira Sao Paulo Solar 2.5 5,231 15/01/24
 __________________
+ISSUANCE DATE: 01/12/2025
+
+QTY: 26581
+
+MP-01: 25/05/2023-2024
+____
+Serial Number: 0001-000001-002845-UCR-CoU-BR-572-25052023-31122023
+
+Vintage Year: 2023
+
+Quantity: 2845
+___________
+Serial Number: 0001-002846-026581-UCR-CoU-BR-572-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 23736
+_____________
